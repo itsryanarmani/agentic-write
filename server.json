@@ -4,7 +4,7 @@
   "description": "Route copy jobs to Claude, GPT, or Workers AI.",
   "version": "0.1.0",
   "repository": {
-    "url": "https://github.com/pooriaarab/agentic-write",
+    "url": "https://github.com/itsryanarmani/agentic-write",
     "source": "github",
     "id": 1413725577
   },

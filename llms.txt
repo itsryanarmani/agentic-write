@@ -10,6 +10,6 @@ Keywords: copywriting, llm-router, captions, agentic-suite, claude-code, codex, 
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-write
-- Core contract: https://github.com/pooriaarab/agentic-write/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-write
+- Core contract: https://github.com/itsryanarmani/agentic-write/blob/main/docs/agentic-core.md
 - License: MIT
