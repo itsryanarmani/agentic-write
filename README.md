@@ -73,7 +73,7 @@ The package does not publish posts, send email, or provide a managed model servi
 
 ## Links and status
 
-[Package](https://www.npmjs.com/package/agentic-write) · [Source and support](https://github.com/pooriaarab/agentic-write)
+[Package](https://www.npmjs.com/package/agentic-write) · [Source and support](https://github.com/itsryanarmani/agentic-write)
 
 Version 0.1.0 APIs can change. Public case studies are not yet published.
 Run `npm run build`, `npm run typecheck`, and `npm test` before contributing.
